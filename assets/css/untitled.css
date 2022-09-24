@@ -27,6 +27,8 @@ body {
   border-radius: 15px;
   background-color: rgba(228, 152, 90, 0.623);
   color: rgb(51, 68, 49);
+  font-family:"Raleway";  
+  text-align: center;
 }
 .img {
   border-radius: 15px 15px 0 0;
