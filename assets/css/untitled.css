@@ -1,3 +1,42 @@
 body {
   background: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../../assets/img/mike-kenneally-TD4DBagg2wE-unsplash.jpg");
 }
+
+.intro-text.bg-faded {
+  background: rgba(94,69,59,0.85);
+  color: rgb(255,255,255);
+}
+
+.navbarResponsive2 {
+  background: #45342c;
+}
+
+.bg-faded {
+  border: 6px solid rgb(149,113,71);
+}
+
+
+.partnersbg {
+  background: linear-gradient(#b1a9a4d9 27%, rgb(85, 80, 76) 100%);
+  color: black;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.74);
+  transition: 0.3s;
+  border-radius: 15px;
+  background-color: rgba(228, 152, 90, 0.623);
+  color: rgb(51, 68, 49);
+}
+.img {
+  border-radius: 15px 15px 0 0;
+}
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(255, 255, 255, 0.74);
+}
+
+/* Add some padding inside the card container */
+.container {
+  padding: 2px 16px;
+}
+
